@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhipatel2810
 - 👀 I’m interested in new perspective and innovative developments.
-- 🌱 I’m currently learning Data engineering and ReactJS.
+- 🌱 I’m currently learning Data engineering and web developement.
 - 💞️ I’m looking to collaborate on creative projects.
 - 📫 How to reach me abhipatel.in and all social media platform.
 - 😄 Pronouns: He/him/his
