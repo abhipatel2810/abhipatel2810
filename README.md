@@ -21,14 +21,14 @@
 
 ---
 
-## ⚡ Now
+## Now
 - Building **cloud-native apps** with **React/Next.js + Node.js**
 - Scaling deployments on **AWS + GCP**, with **Docker/Kubernetes**
 - Optimizing **performance, latency, and reliability** end-to-end
 
 ---
 
-## 🧠 What I build (in plain English)
+## What I build (in plain English)
 ✅ Fast, modern web apps  
 ✅ APIs and microservices that don’t fall over under load  
 ✅ Real-time features (chat, events, live dashboards)  
@@ -36,13 +36,13 @@
 
 ---
 
-## 🧰 Tech I use a lot
+## Tech I use a lot
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,postgres,mongodb,redis,graphql,aws,gcp,docker,kubernetes,terraform,git,githubactions,jenkins&perline=10" />
 </p>
 
-### ☁️ Cloud Toolbox
+### Cloud Toolbox
 **AWS:** EC2, S3, Lambda, ECS, RDS, DynamoDB, CloudFront, IAM, CloudWatch  
 **GCP:** Compute Engine, Cloud Storage, Cloud Run, Cloud Functions, App Engine, GKE, Cloud SQL, Firestore, BigQuery, Pub/Sub, VPC, Load Balancing, Cloud CDN, Monitoring/Logging, IAM
 
