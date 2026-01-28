@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/abhipatel2810">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=400&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%2B+TypeScript;Backend+Systems+%7C+Node.js+%7C+Microservices;Cloud+Engineering+%7C+AWS+%7C+GCP+%7C+Kubernetes;Clean+UI%2FUX+%7C+Performance+%7C+Reliability;Always+building+something+useful+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=400&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+React+%2B+TypeScript;Backend+Systems+%7C+Node.js+%7C+Microservices;Cloud+Engineering+%7C+AWS+%7C+GCP+%7C+Kubernetes;Clean+UI%2FUX+%7C+Performance+%7C+Reliability;Always+building+something+useful" />
   </a>
 </p>
 
